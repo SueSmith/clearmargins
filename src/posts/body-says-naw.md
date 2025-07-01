@@ -5,10 +5,10 @@ date: 2022-03-13
 tags:
   - posts
 layout: layouts/post.njk
-image: https://cdn.glitch.global/dda0ac69-9d76-49c3-91b0-3f81cd4ff9ba/dignity.jpg?v=1646746382522
+image: /dignity.jpg
 ---
 
-![George Costanza I lived my whole life in shame why should I die with dignity](https://cdn.glitch.global/dda0ac69-9d76-49c3-91b0-3f81cd4ff9ba/dignity.jpg?v=1646746382522)
+![George Costanza I lived my whole life in shame why should I die with dignity](/dignity.jpg)
 
 Getting a cancer diagnosis certainly gives you opportunities to learn about yourself lololol. When I got mine, one of the first things I realised was that I was very worried about ***being a good patient***. Yep yikes. 
 
@@ -22,7 +22,7 @@ This questionable version of events was corroborated by my smartwatch which logg
 
 _Sidebar: While waiting for another consultation, my partner’s watch alerted him to a high stress level – aye very good read the room Garmin._
 
-![Gene Wilder saying Really?](https://cdn.glitch.global/dda0ac69-9d76-49c3-91b0-3f81cd4ff9ba/genewilderreally.jpg?v=1646746291046)
+![Gene Wilder saying Really?](/genewilderreally.jpg)
 
 > Someone recently told me about compulsively yawning during an appointment to find out if they had the all-clear, thought they were completely fine but were actually in the early stages of a panic attack. Incidentally if you do this yawning thing when nervous or stressed (I’ve done it before public speaking and racing when I was a teenage athlete) [you are not alone, animals do it too](https://www.wired.com/2015/06/big-question-yawn-im-nervous-stressed/).
 
@@ -44,7 +44,7 @@ Aside from helping me avoid being in denial – a huge mistake I've seen people 
 
 > Case study: This last week was a tough one, culminating in my surgery getting postponed due to covid, but at my pre-assessment check up my blood pressure was **not** high. 🤯
 
-![This is fine](https://cdn.glitch.global/dda0ac69-9d76-49c3-91b0-3f81cd4ff9ba/thisisfine.jpg?v=1647031274399)
+![This is fine](/thisisfine.jpg)
 
 We have a cervical screening program where I live and that might have detected my cancer sooner if I hadn't been late to book my smear test (partly on account of the pandemic and partly just me repeatedly putting it off). For someone who could have competed at olympic levels for self-loathing in the past, amazingly I have genuinely not wasted any energy blaming myself for being in this situation:
 

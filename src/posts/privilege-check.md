@@ -5,14 +5,14 @@ date: 2022-12-31
 tags:
   - posts
 layout: layouts/post.njk
-image: https://cdn.glitch.global/dda0ac69-9d76-49c3-91b0-3f81cd4ff9ba/qeliz.jpg?v=1672502363803
+image: /qeliz.jpg
 ---
 
-![The main Royal Infirmary building](https://cdn.glitch.global/dda0ac69-9d76-49c3-91b0-3f81cd4ff9ba/royal.jpg?v=1672502360534)
+![The main Royal Infirmary building](/royal.jpg)
 
 _The main Glasgow Royal Infirmary building, which is right between where my parents grew up, in tenements that were pulled down in the 60s to make way for the motorway_
 
-![The building I was in](https://cdn.glitch.global/dda0ac69-9d76-49c3-91b0-3f81cd4ff9ba/qeliz.jpg?v=1672502363803)
+![The building I was in](/qeliz.jpg)
 
 _The building I was in lol a wee bit less picturesque, the only window I saw out of had a lovely view of the motorway_
 

@@ -5,10 +5,10 @@ date: 2022-12-29
 tags:
   - posts
 layout: layouts/post.njk
-image: https://cdn.glitch.global/dda0ac69-9d76-49c3-91b0-3f81cd4ff9ba/mulholland-box.jpg?v=1672334851322
+image: /mulholland-box.jpg
 ---
 
-![The box in Mulholland Drive](https://cdn.glitch.global/dda0ac69-9d76-49c3-91b0-3f81cd4ff9ba/mulholland-box.jpg?v=1672334851322)
+![The box in Mulholland Drive](/mulholland-box.jpg)
 
 This time last year [I got my cancer diagnosis](https://clearmargins.glitch.me/posts/cancer-for-cool-weirdos/), between Christmas and New Year. The part of the hospital I’d been told to go to was in darkness when we got there, we had to put the lights on, and the only person we could find wasn’t convinced I should have an appointment there, because the normal clinics shut down for the festive period. 
 
@@ -36,7 +36,7 @@ In those early days I didn’t feel any self-pity, no “why me” or anything l
 
 ## Girl, bye
 
-![Limmy as drunk lassie](https://cdn.glitch.global/dda0ac69-9d76-49c3-91b0-3f81cd4ff9ba/limmylassie.jpg?v=1672334986414)
+![Limmy as drunk lassie](/limmylassie.jpg)
 
 When I realised I was going to have to leave my home and go into hospital for the scariest experience of my life on my own, I knew I was dissociating from reality. I don’t know who drove the car away but it wasn’t me haha. Dissociation is a habit I learned as a child, a trauma response I’ve never managed to fully shake. Looking back now I wonder if I was doing it from the moment I got the diagnosis.
 
@@ -50,7 +50,7 @@ But the more time I spent in the water, the more I realised I’d shelved. I’d
 
 ## Opening the box
 
-![The box in Mulholland Drive](https://cdn.glitch.global/dda0ac69-9d76-49c3-91b0-3f81cd4ff9ba/BlueBox.jpg?v=1672335050629)
+![The box in Mulholland Drive](/BlueBox.jpg)
 
 Over the past few months I’ve ramped up the meditation big time, really fully committing to it for the first time. At first, becoming acutely aware of my thoughts was kind of a horrorshow to be honest, Pandora’s box was open and what I saw wasn’t pretty lololol. 40 plus years of not processing traumatic experiences had created a hell of a mess to wade through. 😱
 
@@ -62,7 +62,7 @@ Which brings me to the last couple of weeks. I went for what I thought was a rou
 
 _I'm learning to commit to the process, without being attached to any particular outcome, because I can't control that._
 
-![Death Becomes Her still](https://cdn.glitch.global/dda0ac69-9d76-49c3-91b0-3f81cd4ff9ba/deathbecomes.png?v=1672335366030)
+![Death Becomes Her still](/deathbecomes.png)
 
 When you get “bad” news about a health condition, there’s a tendency to focus on that to the exclusion of all other factors. The fact is that you will one day die, so when you get a cancer diagnosis, the question isn’t am I going to die (the answer to that one is yes lol), it’s more a case of whether this disease is likely to be on the death certificate. 🙃
 
@@ -72,7 +72,7 @@ The treatment planning consultation for my surgery was a bit challenging with th
 
 ## Greetin-face
 
-![John Wick plus puppy](https://cdn.glitch.global/dda0ac69-9d76-49c3-91b0-3f81cd4ff9ba/John-Wicks-dog.jpg?v=1672335115600)
+![John Wick plus puppy](/John-Wicks-dog.jpg)
 
 When we were driving home from the hospital two weeks ago, it was hard not to feel like history was repeating itself and that I needed to prepare for a new round of treatment. The winter sunset was incredibly beautiful against the landscape and I found myself starting to cry. Not sad tears but joyful appreciation of how wonderful life can be, and a desire to have more of it, however greedy that makes me!
 
@@ -82,7 +82,7 @@ Two days before Christmas, my oncologist took the time to phone to tell me the b
 
 ## Is that right aye
 
-![Father Dougal in Father Ted](https://cdn.glitch.global/dda0ac69-9d76-49c3-91b0-3f81cd4ff9ba/douga.png?v=1672335192778)
+![Father Dougal in Father Ted](/douga.png)
 
 When I got the call, I was on my way to a long dental appointment, and was going to be late if I didn’t move, so I decided to shelve my reaction until later. That was six days ago and I still haven’t quite got around to it, so it seems I still have work to do lol.
 

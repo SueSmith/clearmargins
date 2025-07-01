@@ -2,13 +2,13 @@
 title: Fighting talk
 description: Don't call me a survivor
 date: 2022-03-07
-image: https://cdn.glitch.global/dda0ac69-9d76-49c3-91b0-3f81cd4ff9ba/cover3.jpg?v=1646693541890
+image: /cover3.jpg
 tags:
   - posts
 layout: layouts/post.njk
 ---
 
-![John Wick](https://cdn.glitch.global/dda0ac69-9d76-49c3-91b0-3f81cd4ff9ba/cover3.jpg?v=1646693541890)
+![John Wick](/cover3.jpg)
 
 _On my way to a routine check-up._
 

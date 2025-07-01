@@ -6,4 +6,4 @@ layout: layouts/page.njk
 
 Hiya I started this blog in Feb 2022 a couple of months after getting a diagnosis of cervical cancer. The name `Clear Margins` is a reference to the goal of cutting a clear cancer-free area away around a tumour.
 
-[My links page connects to more of my web stuff.](https://suesmith.glitch.me)
+[My links page connects to more of my web stuff.](https://suesmith.dev)

@@ -1,0 +1,7 @@
+{
+  "glitch-help-instructions": "For a custom domain, change the 'url' parameter from 'glitch-default' to your domain _without_ a traling slash, like 'https://www.example.com'",
+  "title": "Clear Margins",
+  "description": "A blog about cancer",
+  "url": "glitch-default",
+  "image": "https://cdn.glitch.global/dda0ac69-9d76-49c3-91b0-3f81cd4ff9ba/livelovelaugh.jpg?v=1644874236543"
+}

@@ -40,18 +40,6 @@ module.exports = function (eleventyConfig) {
     }" frameborder="0" allowfullscreen></iframe>
 `;
   });
-
-  /* From: https://github.com/artstorm/eleventy-plugin-seo
-  
-  Adds SEO settings to the top of all pages
-  The "glitch-default" bit allows someone to set the url in seo.json while
-  still letting it have a proper glitch.me address via PROJECT_DOMAIN
-  */
-  const seo = require("./src/seo.json");
-  if (seo.url === "glitch-default") {
-    seo.url = `https://${process.env.PROJECT_DOMAIN}.glitch.me`;
-  }
-  eleventyConfig.addPlugin(pluginSEO, seo);
   
   eleventyConfig.addPlugin(embedTwitter);
 
